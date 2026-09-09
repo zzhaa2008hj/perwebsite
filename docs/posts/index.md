@@ -8,4 +8,4 @@ title: 博客
 
 ## 文章列表
 
-- [欢迎来到 perwebsite](/posts/welcome) — 2026-09-09
+- [欢迎来到 perwebsite](/posts/welcome/) — 2026-09-09

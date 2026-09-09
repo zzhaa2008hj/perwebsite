@@ -10,7 +10,7 @@
 ### 技术栈
 `VitePress` `Vue 3` `TypeScript` `GitHub Actions`
 
-[查看详情](/projects/perwebsite)
+[查看详情](/projects/perwebsite/)
 
 ## dotlink
 
