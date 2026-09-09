@@ -1,0 +1,16 @@
+# Ensure LF line endings on text files to avoid CRLF/LF conflicts across OS.
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.mts text eol=lf
+*.mjs text eol=lf
+*.vue text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.sh text eol=lf
+
+# Package lock is large JSON; keep it byte-stable across platforms.
+package-lock.json binary
