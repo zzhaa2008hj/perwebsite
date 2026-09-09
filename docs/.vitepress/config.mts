@@ -7,7 +7,7 @@ export default defineConfig({
   description: 'perwebsite — 个人技术介绍、项目作品与博客笔记',
   base: '/perwebsite/',
   lastUpdated: true,
-  cleanUrls: true,
+  // cleanUrls: true,  // Disabled for GitHub Pages compatibility — Pages static server doesn't auto-append .html; see plan Todo 12 post-deploy fix
   appearance: 'auto',
 
   head: [
