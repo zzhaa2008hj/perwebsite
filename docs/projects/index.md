@@ -5,10 +5,10 @@
 ## 抖音文案助手
 
 ### 简介
-AI 驱动的抖音文案生成工具，支持多模板管理和文案生成。前后端均独立交付，后端已完成 VitePress Admin + Nginx 静态部署改造，支持前后端部署分离。
+面向抖音、小红书、视频号的公开视频文案提取与转写服务。支持单视频和抖音批量队列提取，输出字幕、OCR、ASR 文稿，提供用户认证、套餐订单与额度管理。
 
 ### 技术栈
-`Python` `FastAPI` `Vue` `TypeScript` `Nginx`
+`Python` `FastAPI` `React` `TypeScript` `Docker` `MySQL`
 
 [查看项目详情](/projects/douyinwenan/)
 
