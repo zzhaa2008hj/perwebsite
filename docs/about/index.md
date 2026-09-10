@@ -44,7 +44,7 @@
 
 如果你正在找一个能帮你拍板技术方向的人，欢迎聊聊。
 
-**邮箱**：your@email.com
-**微信**：your-wechat-id
-**文章**：[辉的技术笔记](https://zhihu.com/xxx)
+**邮箱**：17768057096@163.com
+**微信**：caijunwangluo
+**文章**：[辉的技术笔记](https://www.zhihu.com/people/hui-56-13-92)
 **项目**：[查看项目页](/projects/)

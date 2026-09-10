@@ -8,14 +8,14 @@ title: 博客
 
 ## Dify 并发急救手册（7篇系列）
 
-- [6层瓶颈诊断：让你的 Dify 工作流不再卡顿](https://juejin.cn/xxx)
-- [Celery 15队列优化实战](https://juejin.cn/xxx)
-- [Gunicorn 调优指南](https://juejin.cn/xxx)
+- [6层瓶颈诊断：让你的 Dify 工作流不再卡顿](https://juejin.cn/user/1712371046299977)
+- [Celery 15队列优化实战](https://juejin.cn/user/1712371046299977)
+- [Gunicorn 调优指南](https://juejin.cn/user/1712371046299977)
 
 ## Agent 成本治理系列
 
-- [诊断篇：如何定位 Token 消耗瓶颈](https://juejin.cn/xxx)
-- [治理篇：分层路由策略落地](https://juejin.cn/xxx)
-- [监控篇：成本可视化与告警](https://juejin.cn/xxx)
+- [诊断篇：如何定位 Token 消耗瓶颈](https://juejin.cn/user/1712371046299977)
+- [治理篇：分层路由策略落地](https://juejin.cn/user/1712371046299977)
+- [监控篇：成本可视化与告警](https://juejin.cn/user/1712371046299977)
 
-更多文章请访问：[辉的技术笔记](https://zhihu.com/xxx)
+更多文章请访问：[辉的技术笔记](https://www.zhihu.com/people/hui-56-13-92)
