@@ -19,6 +19,9 @@
 - 用户套餐与额度管理
 - TXT / SRT / VTT 导出
 
-## 状态
+## 链接
 
-活跃维护中。
+- 生产: [https://dy.aijlzsgoodjob.cn/](https://dy.aijlzsgoodjob.cn/)
+
+![抖音文案助手截图](./screenshot.png)
+
