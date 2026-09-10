@@ -28,4 +28,4 @@ title: 博客
 - [Dify 卡在入口？Gunicorn + Nginx 的正确打开方式](https://juejin.cn/post/7658205131096293439)
 - [Dify 自部署为什么跑不动？6 层瓶颈诊断法教你定位](https://juejin.cn/post/7657876180804993050)
 
-更多文章请访问：[辉的技术笔记](https://www.zhihu.com/people/hui-56-13-92)
+更多文章请访问：[辉的技术笔记](https://juejin.cn/user/1712371046299977)
