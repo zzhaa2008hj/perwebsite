@@ -24,7 +24,7 @@ export default defineConfig({
       { text: '博客', link: '/posts/' },
       {
         text: 'GitHub',
-        link: 'https://github.com/USERNAME/perwebsite',
+        link: 'https://github.com/zzhaa2008hj/perwebsite',
       },
     ],
 
@@ -64,7 +64,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/USERNAME/perwebsite' },
+      { icon: 'github', link: 'https://github.com/zzhaa2008hj/perwebsite' },
       { icon: 'gmail', link: 'mailto:hello@example.com' },
     ],
 
@@ -84,7 +84,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/USERNAME/perwebsite/edit/main/docs/:path',
+      pattern: 'https://github.com/zzhaa2008hj/perwebsite/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
 
