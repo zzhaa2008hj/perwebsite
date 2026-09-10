@@ -17,3 +17,27 @@
 个人技术介绍站点，VitePress + GitHub Pages 静态站点。`VitePress` `TypeScript`
 
 [查看详情](/projects/perwebsite/)
+
+## AIMPS
+
+AI 矿产预测平台后端服务，FastAPI + Celery + MCP 协议。`Python` `FastAPI` `MySQL` `Celery`
+
+[查看详情](/projects/dd-beijing/)
+
+## AI简历小助手
+
+AI 简历生成与面试助手，基于 yshop 架构扩展。`Java` `Vue` `Spring Boot`
+
+[查看详情](/projects/ai-resume/)
+
+## 山东省数据治理平台
+
+省级政务数据治理平台，整合 9 种数据源，58 项优化任务。`ChunJun` `Taier` `PostgreSQL` `Vue`
+
+[查看详情](/projects/shandong/)
+
+## shanshui
+
+企业级管理系统合集，含商户、商城等多个业务系统。`Java` `.NET` `MySQL`
+
+[查看详情](/projects/shanshui/)
