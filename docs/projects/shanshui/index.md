@@ -37,12 +37,13 @@
 - 教育/运动/门店垂直业务
 - 统一认证与权限（OAuth）
 
+## 链接
+
+![小程序二维码](./qrcode.jpg)
+
 ## 示例
 
 ![山水惠通-1](./screenshot1.png)
 ![山水惠通-2](./screenshot2.png)
 ![山水惠通-3](./screenshot3.png)
 
-## 链接
-
-![小程序二维码](./qrcode.jpg)

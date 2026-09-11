@@ -2,23 +2,17 @@
 
 当前在维护或近期活跃的项目。
 
-## 抖音文案助手
-
-抖音 / 小红书 / 视频号视频文案提取与转写服务。`Python` `FastAPI` `React` `Docker`
-
-[查看详情](/projects/douyinwenan/)
-
-## 北京仓储
-
-企业级仓储管理系统，多仓库、多角色权限。`Java` `Spring Boot` `达梦DM8`
-
-[查看详情](/projects/beijing-warehouse/)
-
 ## 个人技术介绍站
 
 个人技术介绍站点，VitePress + GitHub Pages 静态站点。`VitePress` `TypeScript`
 
 [查看详情](/projects/perwebsite/)
+
+## 抖音文案助手
+
+抖音 / 小红书 / 视频号视频文案提取与转写服务。`Python` `FastAPI` `React` `Docker`
+
+[查看详情](/projects/douyinwenan/)
 
 ## AI 矿产预测平台
 
@@ -31,6 +25,12 @@ AI 矿产预测平台后端服务，FastAPI + Celery + MCP 协议。`Python` `Fa
 AI 简历生成与面试助手，基于 yshop 架构扩展。`Java` `Vue` `Spring Boot`
 
 [查看详情](/projects/ai-resume/)
+
+## 北京仓储
+
+企业级仓储管理系统，多仓库、多角色权限。`Java` `Spring Boot` `达梦DM8`
+
+[查看详情](/projects/beijing-warehouse/)
 
 ## 山东省数据治理平台
 
