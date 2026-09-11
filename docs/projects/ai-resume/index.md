@@ -2,7 +2,7 @@
 
 ## 简介
 
-AI 驱动的简历生成与面试助手系统，基于 yshop 商城架构扩展，支持多端交付：Web 管理后台、PC 桌面端、移动端小程序和 App。Java 后端 + Vue 前端 + Electron 桌面框架。
+AI 驱动的简历生成与面试助手系统，支持多端交付：Web 管理后台、PC 桌面端、移动端小程序和 App。Java 后端 + Vue 前端 + Electron 桌面框架。
 
 ## 技术栈
 
@@ -29,3 +29,15 @@ AI 驱动的简历生成与面试助手系统，基于 yshop 商城架构扩展�
 - 模拟面试提问与评分
 - 用户管理与认证
 - 多端：Web 管理后台 + 移动端小程序/App + PC 桌面端
+
+## 链接
+
+- 生产: [https://www.aijlzsgoodjob.cn/](https://www.aijlzsgoodjob.cn/)
+
+## 示例
+
+![AI简历-1](./screenshot1.jpeg)
+![AI简历-2](./screenshot2.png)
+![AI简历-3](./screenshot3.jpeg)
+![AI简历-4](./screenshot4.png)
+![AI简历-5](./screenshot5.png)
