@@ -38,6 +38,6 @@ AI 驱动的简历生成与面试助手系统，支持多端交付：Web 管理�
 
 ![AI简历-1](./screenshot1.jpeg)
 ![AI简历-2](./screenshot2.png)
-![AI简历-3](./screenshot3.jpeg)
-![AI简历-4](./screenshot4.png)
 ![AI简历-5](./screenshot5.png)
+![AI简历-3](./screenshot3.jpeg)
+
