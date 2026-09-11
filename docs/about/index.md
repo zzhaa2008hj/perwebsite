@@ -12,8 +12,8 @@
 |---------|---------|-----------|
 | 团队缺架构决策者，方向总是踩坑 | 复杂系统架构设计与技术选型 | 统筹山东省数据治理平台，整合9种数据源，58项优化任务按时交付 |
 | AI项目上线后成本失控 | Agent架构与成本治理 | 基于LiteLLM搭建多模型统一网关，Token费用降低64.6% |
-| 高并发场景处理不好，任务总是丢 | 高并发后端与异步任务队列 | 抖音文案助手日均万级任务，Celery 15队列稳定运行 |
-| 遗留系统难扩展，维护成本高 | 遗留系统架构升级与重构 | 北京仓储系统运行效率提升约15%，多业务线稳定运行 |
+| 高并发场景处理不好，任务总是丢 | 高并发后端与异步任务队列 | 抖音文案助手日均万级任务，Celery 队列稳定运行 |
+| 遗留系统难扩展，维护成本高 | 遗留系统架构升级与重构 | 北京仓储系统运行效率提升，多业务线稳定运行 |
 | 需要能独立交付的全栈，不只是执行层 | 前后端均独立交付 | 从0到1交付抖音文案助手、AI简历助手等完整产品 |
 
 ## 工作经历
@@ -29,9 +29,13 @@
 | 类别 | 技术 |
 |------|------|
 | 语言 | Java, Python, JavaScript/TypeScript |
-| AI / LLM | LiteLLM, LangChain, Vercel AI SDK, Prompt Engineering |
-| 框架 | Spring Boot, FastAPI, Next.js, Vue |
-| 基础设施 | Docker, Nginx, PostgreSQL, Redis, RabbitMQ, Prometheus, Grafana |
+| AI / LLM | LiteLLM, LangChain, Vercel AI SDK, Prompt Engineering, MCP |
+| 后端框架 | Spring Boot, FastAPI, Next.js, Vue |
+| 桌面/移动 | Electron, uniapp |
+| 数据 | PostgreSQL, MySQL, 达梦DM8, Redis |
+| 集成/调度 | ChunJun (Flink), Taier |
+| 流程引擎 | Activiti |
+| 基础设施 | Docker, Nginx, RabbitMQ, Prometheus, Grafana |
 
 ## 内容产出
 
