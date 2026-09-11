@@ -10,15 +10,17 @@
 
 ## 北京仓储
 
-企业级仓储管理系统，多仓库、多角色权限。`Java` `Spring Boot` `PostgreSQL`
+企业级仓储管理系统，多仓库、多角色权限。`Java` `Spring Boot` `达梦DM8`
 
-## perwebsite
+[查看详情](/projects/beijing-warehouse/)
+
+## 个人技术介绍站
 
 个人技术介绍站点，VitePress + GitHub Pages 静态站点。`VitePress` `TypeScript`
 
 [查看详情](/projects/perwebsite/)
 
-## AIMPS
+## AI 矿产预测平台
 
 AI 矿产预测平台后端服务，FastAPI + Celery + MCP 协议。`Python` `FastAPI` `MySQL` `Celery`
 
@@ -36,7 +38,7 @@ AI 简历生成与面试助手，基于 yshop 架构扩展。`Java` `Vue` `Sprin
 
 [查看详情](/projects/shandong/)
 
-## shanshui
+## 山水惠通
 
 企业级管理系统合集，含商户、商城等多个业务系统。`Java` `.NET` `MySQL`
 
