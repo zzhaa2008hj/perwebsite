@@ -36,3 +36,9 @@
 - 拍卖/活动/分销
 - 教育/运动/门店垂直业务
 - 统一认证与权限（OAuth）
+
+## 示例
+
+![山水惠通-1](./screenshot1.png)
+![山水惠通-2](./screenshot2.png)
+![山水惠通-3](./screenshot3.png)
