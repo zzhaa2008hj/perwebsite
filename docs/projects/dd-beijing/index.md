@@ -1,4 +1,4 @@
-# AIMPS
+# AI 矿产预测平台
 
 ## 简介
 
@@ -19,3 +19,10 @@ AI 矿产预测平台后端服务，基于 Python + FastAPI + MySQL 构建。提
 - MCP Function Calling 任务管理
 - 异步任务队列处理
 - JWT 用户认证
+
+## 示例
+
+![AI矿产预测-1](./screenshot1.png)
+![AI矿产预测-2](./screenshot2.png)
+![AI矿产预测-3](./screenshot3.png)
+![AI矿产预测-4](./screenshot4.png)
