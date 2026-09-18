@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: 辉的技术笔记
-  text: 后端架构 + AI工程化
+  text: 全栈 + AI工程化
   tagline: 近10年全栈工程师，基于LiteLLM搭建多模型统一网关，日均承载10亿+ Token，模型调用成本降低64.6%。自由职业，可接长期远程合作。
   image:
     src: /logo.svg
